@@ -1,0 +1,81 @@
+.reg{
+    margin-top: 5%;
+    border: 1px solid teal;
+    margin-left: 35%;
+    margin-right: 35%;
+    border-radius: 15px;
+    padding-bottom: 3%;
+    font-size: larger;
+    margin-bottom: 5%;
+    background-image: linear-gradient(teal,white);
+}
+img{
+    width:50%;
+    padding-right: 50px;
+  
+
+
+}
+.logo{
+    width: 500px;
+    height: 50px;
+    padding-top:0.5px ;
+    padding-bottom: 120px;
+}
+p{
+    color: rgb(13, 13, 13);
+}
+
+body{
+    font-family: 'Lora', serif;
+ }
+
+
+ a:link {
+    color:teal;
+  }
+  
+  
+  a:visited {
+    color: rgb(1, 46, 46);
+  }
+  
+
+  a:hover {
+    color: gray;
+  }
+  
+  
+  a:active {
+    color:rgb(1, 46, 46) ;
+  }
+
+
+  .bn{
+    border-radius: 10px;
+    background-color: teal;
+    cursor: pointer;
+    padding: 5px;
+    font-size:medium;
+    font-family: 'Lora', serif;
+    
+ }
+ .bn:active:active {
+  
+    box-shadow: 0 3px #080808;
+    transform: translateY(1px);
+
+}
+
+::placeholder{
+  font-family: 'Lora', serif;
+  text-align: center;
+ }
+
+ .bn:hover{
+  color:whitesmoke;
+  background-color: black;
+ }
+ input{
+  font-family: 'Lora', serif;
+ }
